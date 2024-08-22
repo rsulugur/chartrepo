@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  myfirstwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-22T18:30:17.6439598-04:00"
+    dependencies:
+    - name: mysql
+      repository: http://charts.bitnami.com/bitnami
+      version: 11.1.13
+    description: A Helm chart for Kubernetes
+    digest: 2c957c6c555da72034a541e98eed7d0e470f61bbdead66c75fe173f6d3f5f4bc
+    name: myfirstwebapp
+    type: application
+    urls:
+    - myfirstwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-22T18:30:17.6400686-04:00"
