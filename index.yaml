@@ -3,7 +3,17 @@ entries:
   avk-backend-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T10:58:50.3640705-04:00"
+    created: "2024-08-23T10:59:25.8921493-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 3b4598b41fcd4c0f2faa65f477d0a55cb85a947f641f153597ceb53318abd89a
+    name: avk-backend-chart
+    type: application
+    urls:
+    - avk-backend-chart-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-23T10:59:25.8916287-04:00"
     description: A Helm chart for Kubernetes
     digest: edfc7d8f683a2a192bfec6fc11ab9b9d969972bd394fc8f0ae5834c6cbae406d
     name: avk-backend-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T10:58:50.3630146-04:00"
+    created: "2024-08-23T10:59:25.8905598-04:00"
     description: A Helm chart for Kubernetes
     digest: c8cb9eec725a36cf98dd5878d7414d12071f6c487dcd6234041e9c569b7bce81
     name: avk-backend-chart
@@ -23,7 +33,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T10:58:50.3630146-04:00"
+    created: "2024-08-23T10:59:25.89004-04:00"
     description: A Helm chart for Kubernetes
     digest: d13244a8c46046d3a17e727d24ff0a056a768f3932c3bb86bdfb7f8559592815
     name: avk-backend-chart
@@ -33,7 +43,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T10:58:50.3630146-04:00"
+    created: "2024-08-23T10:59:25.8895032-04:00"
     description: A Helm chart for Kubernetes
     digest: ad39d356ece0f37812bcf7e30ffc79586c9f6ebec85052e251c89d264d80a177
     name: avk-backend-chart
@@ -43,7 +53,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T10:58:50.3620144-04:00"
+    created: "2024-08-23T10:59:25.8889665-04:00"
     description: A Helm chart for Kubernetes
     digest: d059766862c5aab79779d315d8046b1c2b1e2bba19de91ea5feff2a80d0e168d
     name: avk-backend-chart
@@ -53,7 +63,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T10:58:50.3620144-04:00"
+    created: "2024-08-23T10:59:25.8878831-04:00"
     description: A Helm chart for Kubernetes
     digest: 66770e9e78de5de011381fe026a24e52a29548f2017559987aad8bf25e43ac2c
     name: avk-backend-chart
@@ -64,7 +74,7 @@ entries:
   myfirstwebapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T10:58:50.3680625-04:00"
+    created: "2024-08-23T10:59:25.8979966-04:00"
     dependencies:
     - name: mysql
       repository: http://charts.bitnami.com/bitnami
@@ -76,4 +86,4 @@ entries:
     urls:
     - myfirstwebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-23T10:58:50.3610155-04:00"
+generated: "2024-08-23T10:59:25.8873593-04:00"
