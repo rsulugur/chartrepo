@@ -3,7 +3,17 @@ entries:
   avk-backend-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T08:36:11.6547835-04:00"
+    created: "2024-08-23T08:45:57.5265465-04:00"
+    description: A Helm chart for Kubernetes
+    digest: ad39d356ece0f37812bcf7e30ffc79586c9f6ebec85052e251c89d264d80a177
+    name: avk-backend-chart
+    type: application
+    urls:
+    - avk-backend-chart-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-23T08:45:57.5265465-04:00"
     description: A Helm chart for Kubernetes
     digest: d059766862c5aab79779d315d8046b1c2b1e2bba19de91ea5feff2a80d0e168d
     name: avk-backend-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T08:36:11.6542577-04:00"
+    created: "2024-08-23T08:45:57.5260249-04:00"
     description: A Helm chart for Kubernetes
     digest: 66770e9e78de5de011381fe026a24e52a29548f2017559987aad8bf25e43ac2c
     name: avk-backend-chart
@@ -24,7 +34,7 @@ entries:
   myfirstwebapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T08:36:11.6579413-04:00"
+    created: "2024-08-23T08:45:57.5307656-04:00"
     dependencies:
     - name: mysql
       repository: http://charts.bitnami.com/bitnami
@@ -36,4 +46,4 @@ entries:
     urls:
     - myfirstwebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-23T08:36:11.6537319-04:00"
+generated: "2024-08-23T08:45:57.525503-04:00"
