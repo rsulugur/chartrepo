@@ -3,9 +3,9 @@ entries:
   avk-backend-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T09:24:20.3870193-04:00"
+    created: "2024-08-23T09:41:31.2417176-04:00"
     description: A Helm chart for Kubernetes
-    digest: d203e7b120c42a094aa9e1cf9120c907a88f3f1521bd6f27f97c543f3d61c9f8
+    digest: c8cb9eec725a36cf98dd5878d7414d12071f6c487dcd6234041e9c569b7bce81
     name: avk-backend-chart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T09:24:20.384891-04:00"
+    created: "2024-08-23T09:41:31.2411927-04:00"
     description: A Helm chart for Kubernetes
     digest: d13244a8c46046d3a17e727d24ff0a056a768f3932c3bb86bdfb7f8559592815
     name: avk-backend-chart
@@ -23,7 +23,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T09:24:20.384891-04:00"
+    created: "2024-08-23T09:41:31.2406693-04:00"
     description: A Helm chart for Kubernetes
     digest: ad39d356ece0f37812bcf7e30ffc79586c9f6ebec85052e251c89d264d80a177
     name: avk-backend-chart
@@ -33,7 +33,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T09:24:20.384891-04:00"
+    created: "2024-08-23T09:41:31.240146-04:00"
     description: A Helm chart for Kubernetes
     digest: d059766862c5aab79779d315d8046b1c2b1e2bba19de91ea5feff2a80d0e168d
     name: avk-backend-chart
@@ -43,7 +43,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T09:24:20.3838918-04:00"
+    created: "2024-08-23T09:41:31.2396226-04:00"
     description: A Helm chart for Kubernetes
     digest: 66770e9e78de5de011381fe026a24e52a29548f2017559987aad8bf25e43ac2c
     name: avk-backend-chart
@@ -54,7 +54,7 @@ entries:
   myfirstwebapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-23T09:24:20.3901802-04:00"
+    created: "2024-08-23T09:41:31.245958-04:00"
     dependencies:
     - name: mysql
       repository: http://charts.bitnami.com/bitnami
@@ -66,4 +66,4 @@ entries:
     urls:
     - myfirstwebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-23T09:24:20.3838918-04:00"
+generated: "2024-08-23T09:41:31.2390992-04:00"
